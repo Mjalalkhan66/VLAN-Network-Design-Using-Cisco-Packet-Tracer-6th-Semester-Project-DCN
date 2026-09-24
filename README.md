@@ -1,0 +1,1 @@
+Designed and implemented a VLAN-based network using Cisco Packet Tracer to improve network segmentation, security, and communication efficiency. Configured switches, VLANs, trunking, and inter-VLAN routing to enable efficient communication between different network segments.
